@@ -1,4 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
+[![Build Status](https://dev.azure.com/JoshuaShackelford/SHKCDTestProject/_apis/build/status/noescapes08.SHKCDTest?branchName=master)](https://dev.azure.com/JoshuaShackelford/SHKCDTestProject/_build/latest?definitionId=2?branchName=master)
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
